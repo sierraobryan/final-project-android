@@ -11,25 +11,39 @@
         {"id": 4,"title":  "This App", "description": "She made this"}
       ]
     },
-    { "id": 2,
-      "title": "Hilarious",
-      "description": "She has great jokes",
-      "experience_examples": [
-        {"id": 1, "title": "This App", "description": "She made an app to convince you to hire her. That's hilarious."},
-        {"id": 2, "title": "Insult generator", "description": "She found this hilarious insult generating app" },
-        {"id": 3,"title": "Donald Trump API", "description": "Here's an API for Donald Trump quotes" },
-        {"id": 4,"title":  "Dog Pic API", "description": "Everyone loves dogs"}
-      ]
+    {
+    "id": 2,
+    "title": "Libraries",
+    "description": "Knows her stuff",
+    "library_examples": [
+      {"id": 1, "title": "Design Patterns", "does_know":  true, "examples":  "MVC, MVVM"},
+      {"id": 2, "title": "Reactive Programming", "does_know":  true, "examples":  "RxJava, LiveData"},
+      {"id": 3, "title": "Network Calls", "does_know":  true, "examples":  "Retrofit"},
+      {"id": 4, "title": "Android Architecture Library", "does_know":  true, "examples":  "ViewModel"},
+      {"id": 5, "title": "Languages", "does_know":  true, "examples":  "Java, Kotlin"}
+    ]
     },
     { "id": 3,
+      "title": "Hilarious",
+      "description": "She has great jokes",
+      "hilarious_examples": [
+        {"id": 1, "title": "This App", "description": "She made an app to convince you to hire her. That's hilarious.",
+          "url": "https://www.linkedin.com/in/sierraobryan/"
+        },
+        {"id": 2, "title": "Insult generator", "description": "She found this hilarious insult generating app", "url": "https://insult.mattbas.org/api/insult" },
+        {"id": 3,"title": "Donald Trump API", "description": "Here's an API for Donald Trump quotes", "url" : "https://api.tronalddump.io/random/quote" },
+        {"id": 4,"title":  "Dog Pic API", "description": "Everyone loves dogs", "url":  "https://dog.ceo/api/breeds/image/random"}
+      ]
+    },
+    { "id": 4,
       "title": "Diversity",
       "description": "She'll hit all your diversity needs",
-      "experience_examples": [
+      "diversity_examples": [
         {"id": 1, "title": "Female", "description": "She is in fact a girl"},
         {"id": 2, "title": "Unusual Background", "description": "Math BA and Physics MSc, whaaaaat?"}
       ]
     },
-    { "id": 4,
+    { "id": 5,
       "title": "Well Liked",
       "description": "People Love Her",
       "liked_examples": [
@@ -37,13 +51,27 @@
         {"id": 2, "title": "Michael Clark", "description":"professor", "comments": "10/10, would teach again" },
         {"id": 3,"title": "Sierra Obryan", "description":"self", "comments": "12/10, very high self esteem" }
       ]
+    },
+    { "id": 6,
+      "title": "Opinionated",
+      "description": "Strong opinions on everything",
+      "opinion_examples": [
+        {"id": 1, "title": "Flows", "comments": "Always use one activity and a bunch of fragments per flow with a VM"},
+        {"id": 2, "title": "Access variables", "comments": "Make that shit private" },
+        {"id": 3,"title": "Women in STEM", "comments": "The field sucks and we should fix it" }
+      ]
     }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "My feet are happy because you told me to buy Birks.", "postId": 1 },
+    { "id": 2, "body": "This warms my hashtag cynical heart.", "postId": 1 },
+    { "id": 3, "body":  "I'm pretty sure I have the best bff in the world.", "postId": 1},
+    { "id": 4, "body":  "You're the worst thing about Tinder.", "postId": 1},
+    {"id": 5, "body":  "Every time you don't chug, an angel dies.", "postId": 1
+    }
+
   ],
   "profile": {
-    "name": "typicode"
+    "name": "sierraobryan"
   }
 }
