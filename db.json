@@ -1,9 +1,45 @@
 
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "reasons": [
+    { "id": 1,
+      "title": "Experience",
+      "description": "She has a ton of experience",
+      "experience_examples": [
+        {"id": 1, "title": "ChasePay", "description": "You can see where you you can spend your gift cards on a map because of this girl"},
+        {"id": 2, "title": "Fifth Third Mobile Banking", "description": "The multicard only works because she exists" },
+        {"id": 3,"title": "Comic Reader", "description": "Let's not pretend she didn't drop 36 hours the week it was due making sure it worked" },
+        {"id": 4,"title":  "This App", "description": "She made this"}
+      ]
+    },
+    { "id": 2,
+      "title": "Hilarious",
+      "description": "She has great jokes",
+      "experience_examples": [
+        {"id": 1, "title": "This App", "description": "She made an app to convince you to hire her. That's hilarious."},
+        {"id": 2, "title": "Insult generator", "description": "She found this hilarious insult generating app" },
+        {"id": 3,"title": "Donald Trump API", "description": "Here's an API for Donald Trump quotes" },
+        {"id": 4,"title":  "Dog Pic API", "description": "Everyone loves dogs"}
+      ]
+    },
+    { "id": 3,
+      "title": "Diversity",
+      "description": "She'll hit all your diversity needs",
+      "experience_examples": [
+        {"id": 1, "title": "Female", "description": "She is in fact a girl"},
+        {"id": 2, "title": "Unusual Background", "description": "Math BA and Physics MSc, whaaaaat?"},
+        {"id": 3,"title": "Comic Reader", "description": "Let's not pretend she didn't drop 36 hours the week it was due making sure it worked" },
+        {"id": 4,"title":  "This", "description": "She's awesome"}
+      ]
+    },
+    { "id": 4,
+      "title": "Well Liked",
+      "description": "People Love Her",
+      "liked_examples": [
+        {"id": 1, "title": "Cathy Obryan", "description": "mom", "comments": "10/10, would have daughter again"},
+        {"id": 2, "title": "Michael Clark", "description":"professor", "comments": "10/10, would teach again" },
+        {"id": 3,"title": "Sierra Obryan", "description":"self", "comments": "12/10, very high self esteem" }, 
+      ]
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
