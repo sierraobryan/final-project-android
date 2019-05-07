@@ -38,7 +38,7 @@
     { "id": 4,
       "title": "Diversity",
       "description": "She'll hit all your diversity needs",
-      "diversity_examples": [
+      "examples": [
         {"id": 1, "title": "Female", "description": "She is in fact a girl"},
         {"id": 2, "title": "Unusual Background", "description": "Math BA and Physics MSc, whaaaaat?"}
       ]
