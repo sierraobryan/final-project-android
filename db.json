@@ -37,7 +37,7 @@
       "liked_examples": [
         {"id": 1, "title": "Cathy Obryan", "description": "mom", "comments": "10/10, would have daughter again"},
         {"id": 2, "title": "Michael Clark", "description":"professor", "comments": "10/10, would teach again" },
-        {"id": 3,"title": "Sierra Obryan", "description":"self", "comments": "12/10, very high self esteem" }, 
+        {"id": 3,"title": "Sierra Obryan", "description":"self", "comments": "12/10, very high self esteem" }
       ]
     }
   ],
