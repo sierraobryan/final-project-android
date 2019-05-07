@@ -26,9 +26,7 @@
       "description": "She'll hit all your diversity needs",
       "experience_examples": [
         {"id": 1, "title": "Female", "description": "She is in fact a girl"},
-        {"id": 2, "title": "Unusual Background", "description": "Math BA and Physics MSc, whaaaaat?"},
-        {"id": 3,"title": "Comic Reader", "description": "Let's not pretend she didn't drop 36 hours the week it was due making sure it worked" },
-        {"id": 4,"title":  "This", "description": "She's awesome"}
+        {"id": 2, "title": "Unusual Background", "description": "Math BA and Physics MSc, whaaaaat?"}
       ]
     },
     { "id": 4,
