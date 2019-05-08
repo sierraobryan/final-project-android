@@ -14,7 +14,7 @@
     {
     "id": 2,
     "title": "Libraries",
-    "description": "Knows her stuff",
+    "description": "She knows her stuff",
     "examples": [
       {"id": 1, "title": "Design Patterns", "does_know":  true, "examples":  "MVC, MVVM"},
       {"id": 2, "title": "Reactive Programming", "does_know":  true, "examples":  "RxJava, LiveData"},
@@ -45,19 +45,19 @@
     },
     { "id": 5,
       "title": "Well Liked",
-      "description": "People Love Her",
+      "description": "People everywhere love Her",
       "examples": [
-        {"id": 1, "title": "Cathy Obryan", "description": "mom", "comments": "10/10, would have daughter again"},
-        {"id": 2, "title": "Michael Clark", "description":"professor", "comments": "10/10, would teach again" },
-        {"id": 3,"title": "Sierra Obryan", "description":"self", "comments": "12/10, very high self esteem" }
+        {"id": 1, "title": "Cathy Obryan", "description": "Mother", "comments": "10/10, would have daughter again"},
+        {"id": 2, "title": "Michael Clark", "description":"Professor", "comments": "10/10, would teach again" },
+        {"id": 3,"title": "Sierra Obryan", "description":"Self", "comments": "12/10, very high self esteem" }
       ]
     },
     { "id": 6,
       "title": "Opinionated",
-      "description": "Strong opinions on everything",
+      "description": "She has strong opinions on everything",
       "examples": [
         {"id": 1, "title": "Flows", "comments": "Always use one activity and a bunch of fragments per flow with a VM"},
-        {"id": 2, "title": "Access variables", "comments": "Make that shit private" },
+        {"id": 2, "title": "Access variables", "comments": "Make that shit private. Use " },
         {"id": 3,"title": "Women in STEM", "comments": "The field sucks and we should fix it" }
       ]
     }
