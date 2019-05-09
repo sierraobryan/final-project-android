@@ -27,9 +27,7 @@
       "title": "Hilarious",
       "description": "She has great jokes",
       "examples": [
-        {"id": 1, "title": "This App", "description": "She made an app to convince you to hire her. That's hilarious.",
-          "url": "https://www.linkedin.com/in/sierraobryan/"
-        },
+        {"id": 1, "title": "This App", "description": "She made an app to convince you to hire her. That's hilarious."},
         {"id": 2, "title": "Insult generator", "description": "She found this hilarious insult generating app", "url": "https://insult.mattbas.org/api/insult" },
         {"id": 3,"title": "Donald Trump API", "description": "Here's an API for Donald Trump quotes", "url" : "https://api.tronalddump.io/random/quote" },
         {"id": 4,"title":  "Dog Pic API", "description": "Everyone loves dogs", "url":  "https://dog.ceo/api/breeds/image/random"}
@@ -87,13 +85,22 @@
       "date": "03/21/2018",
       "rating": 0,
       "postId": 1},
-    { "id": 5,
-      "body":  "Every time you don't chug, an angel dies.",
-      "name":"Matt",
-      "date": "08/17/2017",
-      "rating": 4,
+    { "id": 6,
+      "body":  "Hi, you’re a beautiful queen with a big ass brain and I love you",
+      "name":"Taylor",
+      "date": "08/15/2018",
+      "rating": 5,
+      "postId": 1
+    },
+    {
+      "id": 7,
+      "body": "Great time. 5/5. Would do again.",
+      "name": "Brinklestein",
+      "date": "05/09/2019",
+      "rating": 5,
       "postId": 1
     }
+
 
   ],
   "profile": {
