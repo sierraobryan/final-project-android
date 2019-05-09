@@ -55,7 +55,7 @@
       "description": "She has strong opinions on everything",
       "examples": [
         {"id": 1, "title": "Flows", "comments": "Always use one activity and a bunch of fragments per flow with a VM"},
-        {"id": 2, "title": "Access variables", "comments": "Make that shit private. Use " },
+        {"id": 2, "title": "Access variables", "comments": "Make that shit private. Use ViewModels if you want to share data" },
         {"id": 3,"title": "Women in STEM", "comments": "The field sucks and we should fix it" }
       ]
     }
@@ -85,13 +85,18 @@
       "date": "03/21/2018",
       "rating": 0,
       "postId": 1},
+    { "id": 5,
+      "body":  "Best Real Estate agent I've ever had. She has a real knack for estates.",
+      "name":"Matt",
+      "date": "08/15/2018",
+      "rating": 4,
+      "postId": 1},
     { "id": 6,
       "body":  "Hi, you’re a beautiful queen with a big ass brain and I love you",
       "name":"Taylor",
       "date": "08/15/2018",
       "rating": 5,
-      "postId": 1
-    },
+      "postId": 1},
     {
       "id": 7,
       "body": "Great time. 5/5. Would do again.",
