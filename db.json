@@ -108,6 +108,26 @@
 
 
   ],
+  "improvementComments": [
+    { "id": 1,
+      "body": "I realize this could be better. But instead of doing something about it, I'm just going to twll you about it. I feel like I should get a free pass",
+      "name": "Improvements"},
+    { "id": 2,
+      "body": "I definitely should have just started with Dagger. But I though hey, only one VM who needs that? You do, Sierra. You're wrong like always. But you're also running out of time so maybe it'll get implemented. Maybe it won't",
+      "name":"Dagger" },
+    { "id": 3,
+      "body":  "These retrofit calls come back wrapped as a API response and I should really put a helper class somewhere to unwrap it so I don't have to deal with that garbage in my view model.",
+      "name":"API Responses"},
+    { "id": 4,
+      "body":  "I hate testing, she says to the guy who teaches teasting. I need to implement some idle responses in the espresso tests to make them work when it comes back from a network call instead of the data base. Also when I add something to the list in the test, it actually adds it to the list. That's weird and annoying.",
+      "name": "Espresso"},
+    { "id": 5,
+      "body":  "I'd like to have a random word generator in my dialogs. But that's just for funsies, to enhance the experience.",
+      "name":"Dialogs"},
+    { "id": 5,
+      "body":  "I should put these things in a datbase and be able to insert them in app as I think of more things. In fact, I could probably but these and the regular comments together, add a tag, store them in the same database and filter based on which kind of tag it is. I might do that. ",
+      "name":"This page"}
+  ],
   "profile": {
     "name": "sierraobryan"
   }
