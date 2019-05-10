@@ -111,7 +111,7 @@
   "improvementComments": [
     { "id": 1,
       "body": "I realize this could be better. But instead of doing something about it, I'm just going to twll you about it. I feel like I should get a free pass. I may or may not fix these in the future.",
-      "name": "Improvements"},
+      "name": "I gave it my best shot but..."},
     { "id": 2,
       "body": "I definitely should have just started with Dagger. But I though hey, only one VM who needs that? You do, Sierra. You're wrong like always. But you're also running out of time so maybe it'll get implemented. Maybe it won't",
       "name":"Dagger" },
