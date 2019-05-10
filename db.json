@@ -124,9 +124,13 @@
     { "id": 5,
       "body":  "I'd like to have a random word generator in my dialogs. But that's just for funsies, to enhance the experience.",
       "name":"Dialogs"},
-    { "id": 5,
+    { "id": 6,
       "body":  "I should put these things in a datbase and be able to insert them in app as I think of more things. In fact, I could probably but these and the regular comments together, add a tag, store them in the same database and filter based on which kind of tag it is. I might do that. ",
-      "name":"This page"}
+      "name":"This page"},
+    {"id":  7,
+      "body":  "I should do a better job caching these responses",
+      "name": "Cache"
+    }
   ],
   "profile": {
     "name": "sierraobryan"
