@@ -110,7 +110,7 @@
   ],
   "improvementComments": [
     { "id": 1,
-      "body": "I realize this could be better. But instead of doing something about it, I'm just going to twll you about it. I feel like I should get a free pass",
+      "body": "I realize this could be better. But instead of doing something about it, I'm just going to twll you about it. I feel like I should get a free pass. I may or may not fix these in the future.",
       "name": "Improvements"},
     { "id": 2,
       "body": "I definitely should have just started with Dagger. But I though hey, only one VM who needs that? You do, Sierra. You're wrong like always. But you're also running out of time so maybe it'll get implemented. Maybe it won't",
@@ -132,6 +132,11 @@
     { "id": 4,
       "body":  "I hate testing, she says to the guy who teaches teasting. I need to implement some idle responses in the espresso tests to make them work when it comes back from a network call instead of the data base. Also when I add something to the list in the test, it actually adds it to the list. That's weird and annoying.",
       "name": "Espresso"},
+    {
+      "id": 10,
+      "body": "I should pass the images for the Reasons list as part of the object. That way I could add new categories to the list without changing the code. I could also add images to the examples. Don't love the check marks.",
+      "name": "Images"
+    },
     { "id": 5,
       "body":  "I'd like to have a random word generator in my dialogs. But that's just for funsies, to enhance the experience.",
       "name":"Dialogs"},
