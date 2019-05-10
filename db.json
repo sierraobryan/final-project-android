@@ -136,6 +136,10 @@
       "id": 10,
       "body": "I should pass the images for the Reasons list as part of the object. That way I could add new categories to the list without changing the code. I could also add images to the examples. Don't love the check marks.",
       "name": "Images"
+    },{
+      "id": 12,
+      "body": "Really in general, aesthetics could be improved. But I'm not a designer so IDK.",
+      "name": "Aesthetics"
     },
     {"id": 11,
       "body":  "I should make a contact page. Show how to send an email, make a call, use a map, etc in an Android App. Might have to rethink the FAB Navigation though. Might have too many options if I keep adding things.",
