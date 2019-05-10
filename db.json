@@ -1,5 +1,13 @@
 
 {
+  "entitlements" : [
+    {"name" :  "reasons",
+    "show": true},
+    {"name" :  "comments",
+      "show": true},
+    {"name" :  "improvementComments",
+      "show": true}
+  ],
   "reasons": [
     { "id": 1,
       "title": "Experience",
